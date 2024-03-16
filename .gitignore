@@ -1,0 +1,13 @@
+# 資料集
+/dataset_origin
+
+# 反向索引資料集
+/dataset_process
+/indexes
+
+# SBERT_KNN test
+/knn_model_SBERT
+/SBERT_KNN.ipynb
+
+# 檢查輸出的東東
+output.md
