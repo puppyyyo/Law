@@ -7,4 +7,5 @@
 /indexes
 
 # 檢查輸出的東東
-output.md
+/summary_output
+QA.md
